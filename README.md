@@ -18,3 +18,8 @@ LSTM model
 
 ## final: Speaker Classification Problem
 dataset: https://www.kaggle.com/competitions/sdsc4016-fundls-of-ml-2-exam/data
+Transformer
+<br />code: https://github.com/Pegasus1818/Intro-Machine-Learning-2-record/blob/aee7400eb0221c8789a0a478c33dec596a61f135/Exam%20baseline%20(1).ipynb
+
+## project: recommendation system
+code:
