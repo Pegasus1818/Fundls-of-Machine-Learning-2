@@ -22,4 +22,6 @@ Transformer
 <br />code: https://github.com/Pegasus1818/Intro-Machine-Learning-2-record/blob/aee7400eb0221c8789a0a478c33dec596a61f135/Exam%20baseline%20(1).ipynb
 
 ## project: recommendation system
-code:
+dataset: https://github.com/Pegasus1818/Intro-Machine-Learning-2-record/blob/26ea767d320f80144d388c1dbddf414a8dc309d8/Luxury_Beauty_5.json.gz   
+collected from https://nijianmo.github.io/amazon/index.html
+<br />code:
