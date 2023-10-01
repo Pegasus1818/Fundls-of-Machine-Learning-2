@@ -1,4 +1,4 @@
-# Intro-Machine-Learning-2-record
+# Fundamentals of Machine Learning 2
 Projects of SDSC4016 
 
 ## 1. Covid-19 Prediction
