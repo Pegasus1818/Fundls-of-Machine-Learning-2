@@ -14,3 +14,4 @@ CNN model (actually fix into DenseNet)
 ## 3. Sentiment classification problem (Twitter Review) 
 dataset: https://www.kaggle.com/competitions/sdsc4016-fml-hw3
 LSTM model
+<br />code: https://github.com/Pegasus1818/Intro-Machine-Learning-2-record/blob/8853a804c70996a04246c4e3b8e9f3c508c328ec/HW3%20Best%20model.ipynb
