@@ -26,4 +26,4 @@ dataset: https://github.com/Pegasus1818/Intro-Machine-Learning-2-record/blob/26e
 collected from https://nijianmo.github.io/amazon/index.html
 <br />code: https://github.com/Pegasus1818/Intro-Machine-Learning-2-record/blob/d9140ecc384227864e0b8cce621acc28d4cddb34/Rating%20Prediction%20Model%20Based%20on%20Review%20Text.ipynb
 <br />https://github.com/Pegasus1818/Intro-Machine-Learning-2-record/blob/a446d05374ab6c214493bc74537634b72672bff7/Rating%20Prediction%20Model%20based%20on%20the%20Item-User%20Network(2).ipynb
-<br />report: 
+<br />report: https://github.com/Pegasus1818/Intro-Machine-Learning-2-record/blob/2fa9ccec76cdca2b48c2375b9845235dd7086931/SDSC4016_Team9_report.pdf
